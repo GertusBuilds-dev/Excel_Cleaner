@@ -1,0 +1,60 @@
+# Executables and Distribution Files
+*.exe
+*.app
+*.deb
+*.rpm
+*.msi
+*.dmg
+
+# Distribution Packages
+dist/
+build/
+*.egg-info/
+Excel_Cleaner_Pro_v2.0_Distribution/
+Excel_Cleaner_Pro_v2.0_Commercial.zip
+
+# PyInstaller
+*.spec
+*.manifest
+*.ico
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Config files with sensitive data
+config.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Commercial files (keep private)
+version_info.txt
+SELLER_LAUNCH_CHECKLIST.txt
