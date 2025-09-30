@@ -8,40 +8,6 @@
 
 ---
 
-## 🌟 Overview
-
-Excel Cleaner Pro v2.0 is a professional-grade desktop application designed to automate tedious Excel data cleaning tasks. Built with Python and featuring a modern GUI, it transforms messy spreadsheets into clean, professional datasets with just a few clicks.
-
-![Excel Cleaner Pro Interface](logo.png)
-
----
-
-## ✨ Key Features
-
-### 🛠️ Core Cleaning Operations
-- **Remove Duplicate Rows** - Intelligent duplicate detection and removal
-- **Remove Empty Rows** - Clean up completely empty rows
-- **Remove Empty Columns** - Eliminate columns with no data
-- **Trim Whitespace** - Remove leading/trailing spaces from all cells
-- **Normalize Column Names** - Standardize headers to Title Case
-- **Title Case Text** - Convert text data to proper Title Case
-
-### 🎨 Professional Interface
-- **Modern GUI Design** - Clean, intuitive two-column layout
-- **Multiple Themes** - Professional Light, Dark, and Modern Blue themes
-- **Progress Tracking** - Real-time progress bars with detailed status
-- **Results Dashboard** - Comprehensive before/after statistics
-- **Keyboard Shortcuts** - Full keyboard navigation support
-
-### ⚙️ Advanced Features
-- **Settings Management** - Save and load cleaning configurations
-- **Automatic Backups** - Timestamped backup creation before processing
-- **Detailed Logging** - Comprehensive operation logs for troubleshooting
-- **Error Handling** - Robust error management with user-friendly messages
-- **Performance Optimized** - Efficient processing of large Excel files
-
----
-
 ## 🏗️ Technical Architecture
 
 ### Design Patterns
