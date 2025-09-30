@@ -1,40 +1,6 @@
 # 🧹 Excel Cleaner Pro v2.0
 
-**Professional Excel Data Cleaning## 🏗️ Technical Architecture
-
-### Design Patterns
-- **Object-Oriented Design** - Clean class-based architecture
-- **Separation of Concerns** - Distinct logic and UI layers
-- **Observer Pattern** - Real-time progress updates
-- **Strategy Pattern** - Flexible cleaning operation selection
-
-### Core Classes
-```python
-class ExcelCleaner:
-    """Main data processing engine"""
-    - Handles all Excel file operations
-    - Implements cleaning algorithms
-    - Manages backup and logging
-
-class ExcelCleanerGUI:
-    """Professional user interface"""
-    - Modern tkinter-based GUI
-    - Theme management system
-    - Progress tracking and status updates
-
-class SettingsManager:
-    """Configuration management"""
-    - JSON-based settings storage
-    - User preference persistence
-```
-
-### Technology Stack
-- **Python 3.13+** - Core language
-- **tkinter** - GUI framework with ttk styling
-- **pandas** - Data manipulation and analysis
-- **openpyxl** - Excel file reading/writing
-- **Pillow (PIL)** - Image processing for logos
-- **PyInstaller** - Executable packaging Streamline Your Spreadsheet Workflow**
+**Professional Excel Data Cleaning Tool - Streamline Your Spreadsheet Workflow**
 
 [![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-red.svg)](LICENSE)
@@ -68,6 +34,88 @@ Excel Cleaner Pro v2.0 is a professional-grade desktop application designed to a
 - **Keyboard Shortcuts** - Full keyboard navigation support
 
 ### ⚙️ Advanced Features
+- **Settings Management** - Save and load cleaning configurations
+- **Automatic Backups** - Timestamped backup creation before processing
+- **Detailed Logging** - Comprehensive operation logs for troubleshooting
+- **Error Handling** - Robust error management with user-friendly messages
+- **Performance Optimized** - Efficient processing of large Excel files
+
+---
+
+## 🏗️ Technical Architecture
+
+### Design Patterns
+
+- **Object-Oriented Design** - Clean class-based architecture
+- **Separation of Concerns** - Distinct logic and UI layers
+- **Observer Pattern** - Real-time progress updates
+- **Strategy Pattern** - Flexible cleaning operation selection
+
+### Core Classes
+
+```python
+class ExcelCleaner:
+    """Main data processing engine"""
+    - Handles all Excel file operations
+    - Implements cleaning algorithms
+    - Manages backup and logging
+
+class ExcelCleanerGUI:
+    """Professional user interface"""
+    - Modern tkinter-based GUI
+    - Theme management system
+    - Progress tracking and status updates
+
+class SettingsManager:
+    """Configuration management"""
+    - JSON-based settings storage
+    - User preference persistence
+```
+
+### Technology Stack
+
+- **Python 3.13+** - Core language
+- **tkinter** - GUI framework with ttk styling
+- **pandas** - Data manipulation and analysis
+- **openpyxl** - Excel file reading/writing
+- **Pillow (PIL)** - Image processing for logos
+- **PyInstaller** - Executable packaging Streamline Your Spreadsheet Workflow\*\*
+
+[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
+[![License: Commercial](https://img.shields.io/badge/License-Commercial-red.svg)](LICENSE)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
+
+---
+
+## 🌟 Overview
+
+Excel Cleaner Pro v2.0 is a professional-grade desktop application designed to automate tedious Excel data cleaning tasks. Built with Python and featuring a modern GUI, it transforms messy spreadsheets into clean, professional datasets with just a few clicks.
+
+![Excel Cleaner Pro Interface](logo.png)
+
+---
+
+## ✨ Key Features
+
+### 🛠️ Core Cleaning Operations
+
+- **Remove Duplicate Rows** - Intelligent duplicate detection and removal
+- **Remove Empty Rows** - Clean up completely empty rows
+- **Remove Empty Columns** - Eliminate columns with no data
+- **Trim Whitespace** - Remove leading/trailing spaces from all cells
+- **Normalize Column Names** - Standardize headers to Title Case
+- **Title Case Text** - Convert text data to proper Title Case
+
+### 🎨 Professional Interface
+
+- **Modern GUI Design** - Clean, intuitive two-column layout
+- **Multiple Themes** - Professional Light, Dark, and Modern Blue themes
+- **Progress Tracking** - Real-time progress bars with detailed status
+- **Results Dashboard** - Comprehensive before/after statistics
+- **Keyboard Shortcuts** - Full keyboard navigation support
+
+### ⚙️ Advanced Features
+
 - **Settings Management** - Save and load cleaning configurations
 - **Automatic Backups** - Timestamped backup creation before processing
 - **Detailed Logging** - Comprehensive operation logs for troubleshooting
@@ -108,18 +156,21 @@ Excel Cleaner Pro v2.0 is a professional-grade desktop application designed to a
 ## 🎯 Use Cases
 
 ### Business Professionals
+
 - Clean customer databases
 - Prepare reports and presentations
 - Standardize data imports
 - Remove survey duplicates
 
 ### Data Analysts
+
 - Preprocessing raw datasets
 - Cleaning exported data
 - Standardizing column formats
 - Removing incomplete records
 
 ### Administrative Staff
+
 - Maintaining contact lists
 - Cleaning imported spreadsheets
 - Standardizing file formats
@@ -350,12 +401,14 @@ Check `excel_cleaner.log` for detailed operation logs and error information. The
 ## 🌟 Showcase
 
 ### Before Excel Cleaner Pro:
+
 - Manual duplicate removal: 30+ minutes
-- Column header standardization: 15+ minutes  
+- Column header standardization: 15+ minutes
 - Whitespace cleanup: 20+ minutes
 - **Total**: 65+ minutes of tedious work
 
 ### After Excel Cleaner Pro:
+
 - Complete data cleaning: **2-3 minutes**
 - Professional results: **Guaranteed**
 - Backup safety: **Automatic**
@@ -368,6 +421,7 @@ Check `excel_cleaner.log` for detailed operation logs and error information. The
 This project demonstrates:
 
 ### Software Engineering Best Practices
+
 - **Clean Architecture**: Separation of concerns, SOLID principles
 - **User Experience Design**: Professional UI/UX with accessibility
 - **Error Handling**: Comprehensive exception management
@@ -375,6 +429,7 @@ This project demonstrates:
 - **Testing**: Robust validation and edge case handling
 
 ### Python Development Skills
+
 - **Advanced tkinter**: Professional GUI development with themes
 - **Data Processing**: Efficient pandas operations for large datasets
 - **File I/O**: Robust Excel file handling with openpyxl
@@ -384,11 +439,13 @@ This project demonstrates:
 ## � Contact & Support
 
 ### Professional Inquiries
+
 - **Business Licensing**: support@gertusbuilds.dev
 - **Custom Development**: Available for hire
 - **Consulting**: Excel automation and Python development
 
 ### Community
+
 - **GitHub Issues**: Technical discussions and feature requests
 - **Learning**: Source code available for educational purposes
 - **Contributions**: Suggestions and feedback welcome
@@ -398,8 +455,9 @@ This project demonstrates:
 ## 🏅 Recognition
 
 Excel Cleaner Pro v2.0 represents a significant achievement in:
+
 - **Professional Software Development**
-- **User Experience Design**  
+- **User Experience Design**
 - **Business Application Development**
 - **Python GUI Programming**
 
