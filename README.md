@@ -19,6 +19,7 @@ Excel Cleaner Pro v2.0 is a professional-grade desktop application designed to a
 ## ✨ Key Features
 
 ### 🛠️ Core Cleaning Operations
+
 - **Remove Duplicate Rows** - Intelligent duplicate detection and removal
 - **Remove Empty Rows** - Clean up completely empty rows
 - **Remove Empty Columns** - Eliminate columns with no data
@@ -27,6 +28,7 @@ Excel Cleaner Pro v2.0 is a professional-grade desktop application designed to a
 - **Title Case Text** - Convert text data to proper Title Case
 
 ### 🎨 Professional Interface
+
 - **Modern GUI Design** - Clean, intuitive two-column layout
 - **Multiple Themes** - Professional Light, Dark, and Modern Blue themes
 - **Progress Tracking** - Real-time progress bars with detailed status
@@ -34,6 +36,7 @@ Excel Cleaner Pro v2.0 is a professional-grade desktop application designed to a
 - **Keyboard Shortcuts** - Full keyboard navigation support
 
 ### ⚙️ Advanced Features
+
 - **Settings Management** - Save and load cleaning configurations
 - **Automatic Backups** - Timestamped backup creation before processing
 - **Detailed Logging** - Comprehensive operation logs for troubleshooting
